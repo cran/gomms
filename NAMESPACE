@@ -1,0 +1,4 @@
+import(stats)
+importFrom(grDevices, rainbow)
+importFrom(graphics, plot)
+export(gomms, gomms.plot)

@@ -1,0 +1,10 @@
+cd90d30ac2e6f39d28098406c66482e1 *DESCRIPTION
+91952ffe6a79d9e0fe6fd56d635fdc81 *NAMESPACE
+1c10b786be1bd233dd3c9b25f4977bb9 *R/gomms.R
+c0998db82878d732a9d73f2efc31c19a *R/gomms.plot.R
+60c0d41b65d51744d3154acb9334467c *data/gomms_test_data.RData
+2484989fd8e2c6b2ab619d187788bd93 *man/Qqpois.Rd
+31a282d951d510a7ab687189c6e0da72 *man/gomms-package.Rd
+22fcc8af00064658f04e9e81de525196 *man/gomms.Rd
+32ac2a2ccd7282e43afca4271437c53a *man/gomms.plot.Rd
+267470139e34b20d13ab8b4b2e86232a *man/gomms_test_data.Rd
